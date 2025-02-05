@@ -73,7 +73,7 @@ export default function ValentineProposal() {
                 transition={{ duration: 0.5 }}
                 className="text-2xl font-semibold text-green-600"
               >
-                Yay! I'm so excited! See you soon... hopefully ❤️
+                Yay! I am so excited! See you soon... hopefully ❤️
               </motion.p>
               <Confetti />
             </>
